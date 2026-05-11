@@ -74,14 +74,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daniyal-asim&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Daniyal24&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniyal-asim/daniyal-asim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniyal-asim/daniyal-asim/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daniyal-asim/daniyal-asim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Daniyal24/Muhammad-Daniyal24/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Daniyal24/Muhammad-Daniyal24/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Muhammad-Daniyal24/Muhammad-Daniyal24/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -92,18 +92,18 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniyal-asim&theme=dracula"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniyal-asim&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Daniyal24&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Daniyal24&theme=dracula"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniyal-asim&theme=dracula"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniyal-asim&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Daniyal24&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Daniyal24&theme=dracula"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=daniyal-asim&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyal-asim&layout=compact&theme=radical&hide_border=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Daniyal24&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Daniyal24&layout=compact&theme=radical&hide_border=true" height="180em"/>
 
 </div>
 
@@ -113,7 +113,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniyal-asim)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Daniyal24)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-daniyal-329476374)
 
 </div>
@@ -126,7 +126,7 @@
 
 <br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=daniyal-asim.daniyal-asim&color=243B55&style=flat-square"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Muhammad-Daniyal24.Muhammad-Daniyal24&color=243B55&style=flat-square"/>
 
 <br/>
 
